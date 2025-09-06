@@ -16,9 +16,14 @@
   <h3 align="center">🍔 Chomp - Food Delivery App</h3>
 
    <div align="center">
-     A modern, fully-functional food delivery app built with React Native, Expo, and Appwrite. Features dynamic search, cart functionality, user authentication, and a beautiful gradient UI with Chomp branding.
+     A modern, fully-functional food delivery app built with React 
+Native, Expo, and Appwrite. Features dynamic search, cart 
+functionality, user authentication, 
+and a beautiful gradient UI with Chomp branding.
     </div>
 </div>
+
+This app was initially created by @adrianhajdin [(View repo)](https://github.com/adrianhajdin/food_ordering). I added to the repo, creating new functions, updating the UI, changing error handling and adding new content.
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -106,8 +111,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/food_ordering.git
-cd food_ordering
+git clone https://github.com/justsubway/food-app
+cd food_app
 ```
 
 **Installation**
