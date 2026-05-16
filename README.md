@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://github.com/yourusername/food_ordering" target="_blank">
+    <a href="https://github.com/justsubway/food-delivery-app" target="_blank">
       <img src="assets/readme/hero.png" alt="Project Banner">
     </a>
   <br />
